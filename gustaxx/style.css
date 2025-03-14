@@ -1,0 +1,16 @@
+main {
+    background-color: rgb(233, 17, 197);
+}
+body {
+    background-color: #de0ee1;
+}
+p {
+    background-color: rgb(236, 14, 188);
+}
+
+img {
+    position: absolute;
+    top: 284px;
+    left: 40%;
+
+}
