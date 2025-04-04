@@ -1,16 +1,16 @@
 main {
-    background-color: rgb(233, 17, 197);
+    background-color: rgb(0, 149, 255);
 }
 body {
-    background-color: #de0ee1;
+    background-color: #00b7ff;
 }
 p {
-    background-color: rgb(236, 14, 188);
+    background-color: rgb(6, 172, 255);
 }
 
 img {
     position: absolute;
-    top: 284px;
+    top: 294px;
     left: 40%;
 
 }
